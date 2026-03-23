@@ -1,0 +1,15 @@
+{
+  "pfiId": "pfi-wit-demos-agents",
+  "pfiName": "wit-demos-agents",
+  "org": "ajrmooreuk",
+  "license": "pfc-standard",
+  "pin": "latest",
+  "ontologySeries": ["VE-Series","PE-Series","RCSG-Series","Foundation","Orchestration"],
+  "repos": {
+    "dev": "ajrmooreuk/pfi-wit-demos-agents-dev",
+    "test": "ajrmooreuk/pfi-wit-demos-agents-test",
+    "prod": "ajrmooreuk/pfi-wit-demos-agents-prod"
+  },
+  "createdAt": "2026-03-23T11:31:03Z",
+  "createdBy": "bootstrap-triad.sh v1.0.0"
+}

@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "description": "Files promoted across the PFI wit-demos-agents triad (dev -> test -> prod)",
+  "instance": "pfi-wit-demos-agents",
+  "files": [
+    "instance-data/config/pfi-config.json",
+    "instance-data/ontologies/**",
+    "instance-data/tokens/**",
+    "pfc-core/azlan-workflow-version",
+    "promotion/promotion.env",
+    "promotion/instance-manifest.json",
+    "supabase/migrations/**",
+    "tools/custom/**"
+  ]
+}
